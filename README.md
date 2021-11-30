@@ -1,4 +1,4 @@
-# RAZ321.github.io
+# Discord-bot-website-example
 
 [EN] > This is an example site for a discord bot, you can edit it and make it whatever you want!
 
